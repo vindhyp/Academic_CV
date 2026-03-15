@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.1)  15 MAR 2026 11:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.1)  15 MAR 2026 13:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -492,12 +492,12 @@ Overfull \hbox (15.11075pt too wide) in paragraph at lines 282--287
 [][] 
  []
 
-[5]
+
 Underfull \hbox (badness 10000) in paragraph at lines 361--367
 
  []
 
-[6] (./cv_4.aux)
+[5] [6] (./cv_4.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
@@ -518,10 +518,10 @@ pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/te
 xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/texdi
 r/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_4.pdf (6 pages, 105772 bytes).
+Output written on cv_4.pdf (6 pages, 105700 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
