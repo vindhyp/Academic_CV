@@ -1,5 +1,8 @@
 name: Build and Deploy CV
 on: [push]
+permissions:        # <--- Add these 3 lines
+  contents: write
+  
 jobs:
   build_latex:
     runs-on: ubuntu-latest
