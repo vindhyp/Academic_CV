@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.1)  15 MAR 2026 11:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.1)  15 MAR 2026 11:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -381,28 +381,6 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 43--43
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
-
- []
-
-[1
-
-{/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
@@ -417,23 +395,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
+[1
 
+{/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
 
@@ -448,56 +433,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--123
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
 [3] [4]
-Overfull \hbox (15.11075pt too wide) in paragraph at lines 268--273
+Overfull \hbox (15.11075pt too wide) in paragraph at lines 282--287
 [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 347--353
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 361--367
 
  []
 
-[5] (./cv_4.aux)
+[6] (./cv_4.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
@@ -506,22 +506,22 @@ Package rerunfilecheck Info: File `cv_4.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10257 strings out of 467538
- 158757 string characters out of 5421637
- 604630 words of memory out of 5000000
+ 10258 strings out of 467538
+ 158763 string characters out of 5421637
+ 604657 words of memory out of 5000000
  39047 multiletter control sequences out of 15000+600000
  631720 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,79p,998b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,6n,79p,998b,590s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/te
 xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/texdi
 r/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_4.pdf (5 pages, 104262 bytes).
+Output written on cv_4.pdf (6 pages, 105772 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
+ 73 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
