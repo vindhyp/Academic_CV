@@ -103,6 +103,8 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsgen.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsgen.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/datetime/datetime-defaults.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/xurl/xurl.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/xurl/xurl.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.1)  16 MAR 2026 09:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.1)  20 APR 2026 07:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **cv_4.tex
 (./cv_4.tex
 LaTeX2e <2025-11-01>
-L3 programming layer <2025-12-29>
+L3 programming layer <2026-03-20>
 (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
@@ -24,7 +24,7 @@ File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \c@table=\count282
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen148
+\bibindent=\dimen150
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
@@ -48,9 +48,9 @@ Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 ))
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
-\col@sep=\dimen149
+\col@sep=\dimen151
 \ar@mcellbox=\box53
-\extrarowheight=\dimen150
+\extrarowheight=\dimen152
 \NC@list=\toks18
 \extratabsurround=\skip51
 \backup@length=\skip52
@@ -60,7 +60,7 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 ))
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
@@ -86,7 +86,7 @@ Package pdftexcmds Info: \pdfdraftmode found.
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -99,12 +99,12 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen151
+\@linkdim=\dimen153
 \Hy@linkcounter=\count285
 \Hy@pagecounter=\count286
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -114,25 +114,26 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 \Hy@SavedSpaceFactor=\count287
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4195.
-Package hyperref Info: Link nesting OFF on input line 4200.
-Package hyperref Info: Hyper index ON on input line 4203.
-Package hyperref Info: Plain pages OFF on input line 4210.
-Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4072.
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4462.
+Package hyperref Info: Bookmarks ON on input line 4468.
 \c@Hy@tempcnt=\count288
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen152
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen154
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -142,15 +143,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count289
-\Field@Width=\dimen153
-\Fld@charsize=\dimen154
-Package hyperref Info: Hyper figures OFF on input line 6078.
-Package hyperref Info: Link nesting OFF on input line 6083.
-Package hyperref Info: Hyper index ON on input line 6086.
-Package hyperref Info: backreferencing OFF on input line 6093.
-Package hyperref Info: Link coloring OFF on input line 6098.
-Package hyperref Info: Link coloring with OCG OFF on input line 6103.
-Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
 \Hy@abspage=\count290
 \c@Item=\count291
 \c@Hfootnote=\count292
@@ -158,7 +159,7 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
 \Fld@listcount=\count293
 \c@bookmark@seq@number=\count294
 
@@ -231,7 +232,7 @@ Package: fcnumparser 2017/06/15
 (/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
-\ex@=\dimen155
+\ex@=\dimen157
 )
 \c@padzeroesN=\count297
 \fc@tmpcatcode=\count298
@@ -267,10 +268,13 @@ LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks23
 \dt@b=\toks24
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 33.
+(/opt/texlive/texdir/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 34.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+Package: geometry 2026/03/07 v6.0 Page Geometry
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -278,42 +282,42 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@cnth=\count321
 \Gm@cntv=\count322
 \c@Gm@tempcnt=\count323
-\Gm@bindingoffset=\dimen156
-\Gm@wd@mp=\dimen157
-\Gm@odd@mp=\dimen158
-\Gm@even@mp=\dimen159
-\Gm@layoutwidth=\dimen160
-\Gm@layoutheight=\dimen161
-\Gm@layouthoffset=\dimen162
-\Gm@layoutvoffset=\dimen163
+\Gm@bindingoffset=\dimen158
+\Gm@wd@mp=\dimen159
+\Gm@odd@mp=\dimen160
+\Gm@even@mp=\dimen161
+\Gm@layoutwidth=\dimen162
+\Gm@layoutheight=\dimen163
+\Gm@layouthoffset=\dimen164
+\Gm@layoutvoffset=\dimen165
 \Gm@dimlist=\toks25
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count324
 )
 (./cv_4.aux)
 \openout1 = `cv_4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-Package hyperref Info: Link coloring ON on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+Package hyperref Info: Link coloring ON on input line 44.
  (./cv_4.out) (./cv_4.out)
 \@outlinefile=\write3
 \openout3 = `cv_4.out'.
@@ -322,13 +326,13 @@ Package hyperref Info: Link coloring ON on input line 43.
 (/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count325
-\scratchdimen=\dimen164
+\scratchdimen=\dimen166
 \scratchbox=\box55
 \nofMPsegments=\count326
 \nofMParguments=\count327
 \everyMPshowfont=\toks26
 \MPscratchCnt=\count328
-\MPscratchDim=\dimen165
+\MPscratchDim=\dimen167
 \MPnumerator=\count329
 \makeMPintoPDFobject=\count330
 \everyMPtoPDFconversion=\toks27
@@ -370,26 +374,14 @@ File: fc-english.def 2016/01/12
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 43.
+(Font)              <10.95> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 43.
+(Font)              <8> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 43.
+(Font)              <6> on input line 44.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 43--43
+Overfull \hbox (30.0pt too wide) in paragraph at lines 44--44
 [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
-
- []
-
-
-Overfull \hbox (24.63336pt too wide) in paragraph at lines 94--95
-\OT1/cmr/m/n/10.95 (\OT1/cmr/m/it/10.95 Ctenopharyn-godon idella\OT1/cmr/m/n/10
-.95 ) at dif-fer-ent de-vel-op-men-tal stages,\OT1/cmr/m/it/10.95 Water Re-sour
-ces Re-search, 61, e2025WR039967.\OT1/cmr/m/n/10.95 ,
  []
 
 
@@ -402,25 +394,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
-[1
 
-{/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (24.63336pt too wide) in paragraph at lines 98--99
+\OT1/cmr/m/n/10.95 (\OT1/cmr/m/it/10.95 Ctenopharyn-godon idella\OT1/cmr/m/n/10
+.95 ) at dif-fer-ent de-vel-op-men-tal stages,\OT1/cmr/m/it/10.95 Water Re-sour
+ces Re-search, 61, e2025WR039967.\OT1/cmr/m/n/10.95 ,
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
+[1
 
+{/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
@@ -430,7 +429,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
@@ -440,7 +439,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
@@ -449,18 +448,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--132
 
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--137
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
 
  []
 
@@ -480,7 +479,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--144
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
@@ -494,41 +493,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
 [3] [4]
-Overfull \hbox (15.11075pt too wide) in paragraph at lines 282--287
+Overfull \hbox (15.11075pt too wide) in paragraph at lines 284--289
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--367
+Underfull \hbox (badness 10000) in paragraph at lines 363--369
 
  []
 
 [5] [6] (./cv_4.aux)
  ***********
 LaTeX2e <2025-11-01>
-L3 programming layer <2025-12-29>
+L3 programming layer <2026-03-20>
  ***********
 Package rerunfilecheck Info: File `cv_4.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10259 strings out of 467538
- 158771 string characters out of 5421637
- 605659 words of memory out of 5000000
- 39048 multiletter control sequences out of 15000+600000
+ 10282 strings out of 467349
+ 159318 string characters out of 5417750
+ 609419 words of memory out of 5000000
+ 39249 multiletter control sequences out of 15000+600000
  631720 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,79p,998b,590s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,6n,79p,1003b,590s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/te
 xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/
 texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/texdi
 r/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_4.pdf (6 pages, 106021 bytes).
+Output written on cv_4.pdf (6 pages, 106135 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
