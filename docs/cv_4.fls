@@ -109,8 +109,8 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/l3backend-pdftex.def
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/l3backend-pdftex.def
 INPUT ./cv_4.aux
 INPUT ./cv_4.aux
 INPUT cv_4.aux
